@@ -1,0 +1,1 @@
+Folder contains the datasets used in this whole projects - 1. IoTDevNet, 2. NSL-KDD, 3. DS2OS, 4. IoT_Botnet, 5. IoTID20. 
